@@ -3,6 +3,9 @@
 		{
 			"name": "VSCode2",
 			"path": "."
+		},
+		{
+			"path": ".."
 		}
 	],
 	"settings": {}
