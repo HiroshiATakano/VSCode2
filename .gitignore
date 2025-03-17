@@ -1,0 +1,26 @@
+VSCode2-1/
+VSCode2/
+QCKentei/
+QCKentei2/
+QCKentei3/
+数理最適化/
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# macOS
+.DS_Store
+.git
+.venv
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+
+my-project-vscode-*.json
