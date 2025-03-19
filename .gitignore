@@ -4,6 +4,10 @@ QCKentei/
 QCKentei2/
 QCKentei3/
 数理最適化/
+Python/
+GitHub/
+QC_Kentei/
+Jupyter_env/
 
 # Node.js
 node_modules/
@@ -21,6 +25,8 @@ __pycache__/
 # IDE files
 .vscode/
 .idea/
+
+.csv/
 
 
 my-project-vscode-*.json
